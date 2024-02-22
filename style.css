@@ -1,0 +1,78 @@
+#parent{
+    border: solid 1px;
+    margin: 0 auto;
+    width: 50%;
+    padding: 24px;
+}
+.input{
+    padding: 14px 60px;
+    border-radius: 1px;
+    border:solid 1px;
+    width: 80%;
+}
+button{
+    padding: 8px 275px;
+    border: none;
+    background-color: black;
+    color: aliceblue;
+    border-radius: 1px;
+}
+.center{
+    width: 30px;
+    height: 30px;
+    margin-left: 30%;
+    margin-right: 30%;
+    
+}
+.middle{
+    width: 30px;
+    height: 30px;
+    margin-left: 1%;
+    margin-right: 1%;
+}
+ 
+#child{
+        border: solid 1px;
+        margin: 0 auto;
+        width: 50%;
+        padding: 24px;
+    }
+    .input{
+        padding: 14px 60px;
+        border-radius: 1px;
+        border:solid 1px;
+        width: 80%;
+    }
+    button{
+        padding: 8px 275px;
+        border: none;
+        background-color: black;
+        color: aliceblue;
+        border-radius: 1px;
+    }
+    .center{
+        width: 30px;
+        height: 30px;
+        margin-left: 30%;
+        margin-right: 30%;
+        
+    }
+    .middle{
+        width: 30px;
+        height: 30px;
+        margin-left: 1%;
+        margin-right: 1%;
+    }
+ table {
+        font-family: arial black, Tahoma;
+        border-collapse: collapse;
+        width: 85%;
+      }
+      
+      td, th {
+        border: 1px solid #000905;
+        text-align: left;
+        padding: 10px;
+      }
+    
+
